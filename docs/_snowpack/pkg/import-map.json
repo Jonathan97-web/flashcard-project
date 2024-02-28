@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "sweetalert": "./sweetalert.js",
+    "uuid": "./uuid.js"
+  }
+}

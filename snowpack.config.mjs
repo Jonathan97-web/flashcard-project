@@ -28,6 +28,7 @@ export default {
     /* ... */
   },
   buildOptions: {
-    baseUrl: '/flashcard-project'
+    baseUrl: '/flashcard-project',
+    out: 'docs'
   },
 };
